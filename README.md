@@ -26,9 +26,6 @@ pip install ultralytics supervision polars
 
 ## ▶️ Usage  
 1. Run `main.py`  
-   ```bash
-   python main.py
-   ```  
 2. Enter the test image number (**1 – 30**) when prompted.  
 3. The system will:  
    - 🖼️ Displays the image of the detected plate
@@ -43,6 +40,10 @@ pip install ultralytics supervision polars
 5. 🤖 Apply OCR model for character recognition  
 6. 👁️ Display results with plate text overlay  
 
+
+## 📷 Example
+
+![Ejemplo](example.png)
 
 ## 📬 Contact
 

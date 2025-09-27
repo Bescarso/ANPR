@@ -135,7 +135,7 @@ def ocr_processing_2(model_yolo, rotated_images):
             org = (10, 40),  # plate position
             fontFace = cv2.FONT_HERSHEY_SIMPLEX,
             fontScale = 1.0,  
-            color = (34, 34, 148),  
+            color = (0, 255, 0),  
             thickness=2, 
             lineType=cv2.LINE_AA
         )
