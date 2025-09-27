@@ -43,7 +43,7 @@ pip install ultralytics supervision polars
 
 ## 📷 Example
 
-![Ejemplo](example.png)
+<img src="example.png" alt="Ejemplo" width="300"/>
 
 ## 📬 Contact
 
