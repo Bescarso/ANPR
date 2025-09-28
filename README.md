@@ -1,13 +1,12 @@
 # 🚘 ANPR (Automatic Number Plate Recognition)
 
-This project performs **ANPR** using artificial intelligence models and image processing.  
-
+This project implements an **Automatic Number Plate Recognition (ANPR)** system using artificial intelligence models and image processing techniques. The system detects the license plate, rotates it to a horizontal position, segments it, and recognizes its characters, enabling efficient automation of vehicle identification processes.
 
 
 ## 📖 Description  
-The system detects license plates in images and extracts the plate text using two trained **YOLO** models:  
-- One for locating the **plate**.  
-- Another for recognizing the **characters**.  
+The system detects license plates in images and extracts the license plate text using two models pre-trained with **YOLOv8**:
+- One to locate the **license plate*** with 99% accuracy.
+- Another to recognize the **characters** with 69% accuracy.
 
 
 ## ⚙️ Dependencies 
